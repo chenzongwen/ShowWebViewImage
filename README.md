@@ -6,7 +6,7 @@ This is a demo show how to get url from webview
 
 Demo
 ====
- ![image](https://github.com/chenzongwen/WaveLoadingView/blob/master/demo.png)
+ ![image](https://github.com/chenzongwen/ShowWebViewImage/blob/master/demo.png)
 
 
 Author
