@@ -4,12 +4,16 @@ Drawer
 
 This is a demo show how to get url from webview
 
+Demo
+====
+ ![image](https://github.com/chenzongwen/WaveLoadingView/blob/master/demo.png)
+
 
 Author
 ===========
 
-- [e-mail](zongwen.chen@qq.com)
-- [blog](http://blog.csdn.net/owenchan1987)
+- [E-mail](zongwen.chen@qq.com)
+- [Blog](http://blog.csdn.net/owenchan1987)
 
 License
 ============
